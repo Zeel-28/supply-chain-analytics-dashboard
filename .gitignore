@@ -1,0 +1,54 @@
+Virtual Environment
+
+venv/
+env/
+ENV/
+
+Python
+
+pycache/
+.py[cod]
+$py.class
+
+Jupyter
+
+.ipynb_checkpoints/
+
+VS Code
+
+.vscode/
+
+PyCharm
+
+.idea/
+
+Environment Variables
+
+.env
+
+ Logs
+
+.log
+
+OS Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Power BI Temporary Files
+
+.tmp
+
+Cache
+
+.cache/
+
+Build
+
+dist/
+build/
+
+MySQL Exports
+
+.sql.bak
