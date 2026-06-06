@@ -111,12 +111,19 @@ Key Business Insights
 Supply-Chain-Analytics/
 │
 ├── data/
+
 ├── notebooks/
+
 ├── sql/
+
 ├── dashboard/
+
 ├── screenshots/
+
 ├── reports/
+
 └── README.md
+
 
 Future Improvements
 
